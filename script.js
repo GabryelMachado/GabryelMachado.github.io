@@ -95,7 +95,6 @@ function checkSubjects() {
   }
   return subjects;
 }
-
 submitBtn.addEventListener('click', (click) => {
   evaluationForm.style.display = 'none';
   formData.style.display = 'flex';

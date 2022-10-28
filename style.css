@@ -182,7 +182,6 @@ footer {
     width: 280px;
   }
 }
-
 @media screen and ( max-width : 375px ) {
 
   #email , #password {
